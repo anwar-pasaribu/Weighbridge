@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weighbridge</string>
+    <string name="loading_list_error">Error while loading list</string>
+    <string name="title_add_ticket">New Ticket</string>
+</resources>
